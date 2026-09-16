@@ -15,9 +15,9 @@ engineering execution, and I sit with the customers who use what gets built.
 
 ## Featured projects
 
-### [Actuary](https://github.com/mattspaulding/actuary)
+### [Actuary402](https://github.com/mattspaulding/actuary)
 
-**The paying watchdog: the agent economy, measured.** (Aug 2026)
+**The paying watchdog: the agent economy, measured.** (Jul 2026)
 
 An autonomous probe fleet that buys from services on Circle's Agent Marketplace with real USDC
 nanopayments and has Gemini grade whatever comes back. Other agents can then buy the resulting trust
@@ -133,7 +133,7 @@ public repos, so the links go to the live products.
 - **iProcedures**, Tech Lead Software Engineer, 2016 to 2018. Led development of a real-time clinical
   platform for anesthesia and surgical monitoring, shipped on iPad in a HIPAA-regulated environment.
 
-MS in Computer Engineering, University of South Florida. Founder Institute graduate.
+MS in Computer Engineering, University of South Florida.
 
 ---
 
