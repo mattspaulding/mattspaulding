@@ -17,7 +17,7 @@ engineering execution.
 
 ### [Actuary402](https://github.com/mattspaulding/actuary)
 
-**The paying watchdog: the agent economy, measured.** (Jul 2026)
+**The agent economy watchdog.** (Jul 2026)
 
 An autonomous probe fleet that buys from services on Circle's Agent Marketplace with real USDC
 nanopayments and has Gemini grade whatever comes back. Other agents can then buy the resulting trust
