@@ -7,7 +7,7 @@ Tampa, Florida. Founding AI Technical Lead at Calibrate Group.
 I design and ship production AI systems: agent orchestration, retrieval, tool calling, and evaluation
 loops. 15+ years building software that ships and stays stable, hands-on across architecture and
 delivery. I work at the intersection of product decisions and
-engineering execution, and I sit with the customers who use what gets built.
+engineering execution.
 
 [mattspaulding.org](https://www.mattspaulding.org) · [LinkedIn](https://linkedin.com/in/spauldingmatthew) · [GitHub](https://github.com/mattspaulding)
 
